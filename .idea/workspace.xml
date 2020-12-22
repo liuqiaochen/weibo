@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a57d938a-23af-45c3-a812-74fab592a69c" name="Default Changelist" comment="" />
+    <list default="true" id="a57d938a-23af-45c3-a812-74fab592a69c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -156,11 +160,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608540465247</updated>
-      <workItem from="1608540466852" duration="1113000" />
+      <workItem from="1608540466852" duration="1743000" />
+      <workItem from="1608547874595" duration="1704000" />
+      <workItem from="1608607130758" duration="728000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608549803972">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608549803972" />
+    <state x="179" y="115" key="DiffContextDialog" timestamp="1608549282500">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="179" y="115" key="DiffContextDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608549282500" />
+    <state x="573" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1608548538134">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="573" y="368" key="com.intellij.ide.util.TipDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608548538134" />
   </component>
 </project>
