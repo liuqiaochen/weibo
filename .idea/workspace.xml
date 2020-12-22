@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a57d938a-23af-45c3-a812-74fab592a69c" name="Default Changelist" comment="">
+    <list default="true" id="a57d938a-23af-45c3-a812-74fab592a69c" name="Default Changelist" comment="忽略">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,6 +131,7 @@
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lxYyk6eNnQLXhiYjmgS0SMqPvd" />
@@ -195,13 +196,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="忽略" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608620697085">
+    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608634709599">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608620697085" />
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1608620704839">
+    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634709599" />
+    <state x="179" y="115" key="DiffContextDialog" timestamp="1608634708620">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608620704839" />
+    <state x="179" y="115" key="DiffContextDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634708620" />
+    <state x="179" y="115" key="MergeDialog" timestamp="1608634338729">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="179" y="115" key="MergeDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634338729" />
+    <state x="607" y="259" key="MultipleFileMergeDialog" timestamp="1608634338781">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="607" y="259" key="MultipleFileMergeDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634338781" />
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1608634680354">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634680354" />
+    <state x="652" y="256" key="git4idea.branch.GitSmartOperationDialog" timestamp="1608634323281">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="652" y="256" key="git4idea.branch.GitSmartOperationDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634323281" />
   </component>
 </project>
