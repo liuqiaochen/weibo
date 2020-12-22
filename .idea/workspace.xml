@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a57d938a-23af-45c3-a812-74fab592a69c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608632690029</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="命名路由">
+      <created>1608633109176</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608633109176</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,17 +231,22 @@
     <MESSAGE value="初始化样式" />
     <MESSAGE value="静态文件浏览器缓存问题" />
     <MESSAGE value="切割头部和尾部子视图" />
-    <option name="LAST_COMMIT_MESSAGE" value="切割头部和尾部子视图" />
+    <MESSAGE value="命名路由" />
+    <option name="LAST_COMMIT_MESSAGE" value="命名路由" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608632689866">
+    <state x="658" y="79" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608633717706">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608632689866" />
-    <state x="714" y="466" key="NewPhpFileDialog" timestamp="1608632348980">
+    <state x="658" y="79" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608633717706" />
+    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608633109061">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="714" y="466" key="NewPhpFileDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608632348980" />
+    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608633109061" />
+    <state x="714" y="466" key="NewPhpFileDialog" timestamp="1608633329846">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="714" y="466" key="NewPhpFileDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608633329846" />
     <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1608632693802">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
