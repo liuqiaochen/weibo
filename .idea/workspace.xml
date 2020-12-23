@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a57d938a-23af-45c3-a812-74fab592a69c" name="Default Changelist" comment="忽略">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shared/_user_info.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +152,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -185,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608620661466</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="忽略">
+      <created>1608634740793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608634740793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,10 +209,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="忽略" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608634709599">
+    <state x="479" y="136" key="CommitChangelistDialog2" timestamp="1608634910376">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634709599" />
+    <state x="479" y="136" key="CommitChangelistDialog2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634910376" />
     <state x="179" y="115" key="DiffContextDialog" timestamp="1608634708620">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
@@ -212,10 +225,18 @@
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="607" y="259" key="MultipleFileMergeDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634338781" />
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1608634680354">
+    <state x="714" y="466" key="NewPhpFileDialog" timestamp="1608709612688">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634680354" />
+    <state x="714" y="466" key="NewPhpFileDialog/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608709612688" />
+    <state x="397" y="175" key="SettingsEditor" timestamp="1608634933537">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="397" y="175" key="SettingsEditor/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634933537" />
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2" timestamp="1608634746347">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="496" y="276" key="Vcs.Push.Dialog.v2/0.23.1792.1026/1792.23.1920.1057@0.23.1792.1026" timestamp="1608634746347" />
     <state x="652" y="256" key="git4idea.branch.GitSmartOperationDialog" timestamp="1608634323281">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
